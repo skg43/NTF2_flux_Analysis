@@ -1,0 +1,30 @@
+
+'''
+   :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+   :                                                                       :
+   :                              FluxCount                              	 :
+	 :                                                                       :
+   : Developed by:         Sanjeev Kumar Gautam                       		 :
+   :                                                                       :
+   :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+'''
+ENTRY z (Angstroms)
+-200.0
+EXIT z (Angstroms)
+200.0
+Number of Nup monomers
+53120
+Number of Atoms in Wall
+225977
+Kaps in system (1 yes, 0 no)
+1
+Number of Kaps in the system
+250
+Number of Amino Acids in Kaps
+774
+Number of NTF2s in the system
+500
+Number of Amino Acids in NTF2s
+246
+No. of Frames in each output file (#Multiple files: the first has 2 frames, second has 3 frames)
+2 3

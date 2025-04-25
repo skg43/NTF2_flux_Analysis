@@ -1,0 +1,33 @@
+ 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+                     Flux Calculation       
+ 
+                  All Rights Reserved  
+ 
+        developed by: Sanjeev Kumar Gautam 
+ 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+ Date: Fri Apr 25 18:09:57 EDT 2025  
+ 
+ ... removing Count_from0_wkapB.txt in 'run' directory
+ ... removing Count_in_pore_wkapB.txt in 'run' directory
+ 
+ ... running run.py
+....
+Input read!!!
+Loaded frame 5 from dump-prod-ntf2-1.lmp
+Loaded frame 3 from dump-prod-ntf2-1.lmp
+Loaded frame 4 from dump-prod-ntf2-1.lmp
+Loaded frame 1 from dump-prod-ntf2-0.lmp
+Loaded frame 2 from dump-prod-ntf2-0.lmp
+Function 'Load_all_Frames' finished in 0.34 seconds
+...
+Writing output...
+...
+Total Central Atoms: 500
+Output Written!!
+Function 'main' finished in 0.35 seconds
+ 
+ 
