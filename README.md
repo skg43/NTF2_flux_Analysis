@@ -1,6 +1,6 @@
 # NTF2 Flux Analysis
 
-This project analyzes the molecular flux of Nuclear Transport Factor 2 (NTF2) molecules through a Nuclear Pore Complex (NPC) model using LAMMPS simulation outputs. It parses center of mass coordinates from multiple trajectory files and calculates molecular flux by detecting crossings through defined regions.
+This project analyzes the molecular flux of Nuclear Transport Factor 2 (NTF2) through a Nuclear Pore Complex (NPC) model using LAMMPS simulation outputs. It parses center of mass coordinates from multiple trajectory files and calculates molecular flux by detecting crossings through defined regions.
 
 ## Project Description
 
