@@ -55,7 +55,6 @@ NTF2_flux_Analysis/
 
 - Python programming for scientific data analysis
 - Molecular dynamics data parsing (LAMMPS output)
-- Center of mass calculation and boundary detection
 - Molecular flux computation and time-series analysis
 - Multiprocessing for performance optimization
 - Shell scripting for workflow automation
