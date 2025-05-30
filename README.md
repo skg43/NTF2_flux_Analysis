@@ -51,15 +51,6 @@ NTF2_flux_Analysis/
 
 4. Output files will be saved in the `run/` directory.
 
-## Skills and Tools Demonstrated
-
-- Python programming for scientific data analysis
-- Molecular dynamics data parsing (LAMMPS output)
-- Molecular flux computation and time-series analysis
-- Multiprocessing for performance optimization
-- Shell scripting for workflow automation
-- Git and GitHub for version control and project management
-
 ## License
 
 This project is licensed under the MIT License.
